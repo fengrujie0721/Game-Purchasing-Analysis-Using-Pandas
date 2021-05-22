@@ -40,7 +40,8 @@ Average Purchase Price
 Total Purchase Value
 Average Purchase Total per Person by Gender
 
-![image](https://user-images.githubusercontent.com/79819331/119212390-f7752b80-ba85-11eb-99d5-99494fd3dbc7.png)
+![image](https://user-images.githubusercontent.com/79819331/119212439-4b801000-ba86-11eb-8e69-7d5dab72de00.png)
+
 
 
 Age Demographics
@@ -53,6 +54,42 @@ Total Purchase Value
 Average Purchase Total per Person by Age Group
 
 ![image](https://user-images.githubusercontent.com/79819331/119212419-28edf700-ba86-11eb-9b1a-0a506fed34aa.png)
+
+
+Top Spenders
+
+Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+
+SN
+Purchase Count
+Average Purchase Price
+Total Purchase Value
+
+![image](https://user-images.githubusercontent.com/79819331/119212458-710d1980-ba86-11eb-9f82-91aa47a92a9a.png)
+
+Most Popular Items
+
+Identify the 5 most popular items by purchase count, then list (in a table):
+
+Item ID
+Item Name
+Purchase Count
+Item Price
+Total Purchase Value
+
+![image](https://user-images.githubusercontent.com/79819331/119212473-8d10bb00-ba86-11eb-941b-a7491b754d62.png)
+
+
+Most Profitable Items
+
+Identify the 5 most profitable items by total purchase value, then list (in a table):
+
+Item ID
+Item Name
+Purchase Count
+Item Price
+Total Purchase Value
+
 
 
 

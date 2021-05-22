@@ -84,7 +84,8 @@ Item Price
 Total Purchase Value
 
 
-![image](https://user-images.githubusercontent.com/79819331/119212553-263fd180-ba87-11eb-9444-ad0fde0430a5.png)
+![image](https://user-images.githubusercontent.com/79819331/119212614-90587680-ba87-11eb-8535-29e50a655026.png)
+
 
 
 Most Profitable Items
@@ -97,6 +98,8 @@ Purchase Count
 Item Price
 Total Purchase Value
 
+
+![image](https://user-images.githubusercontent.com/79819331/119212622-95b5c100-ba87-11eb-99c3-a840d506fcf9.png)
 
 
 

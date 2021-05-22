@@ -2,7 +2,16 @@
 Heroesofpymoli    
 Analyze the data for most recent fantasy game Heroes of Pymoli.
 
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like to generate a report that breaks down the game's purchasing data into meaningful insights.
+
+
+
+•Display the total number of players
+Player Count
+
+![image](https://user-images.githubusercontent.com/79819331/119212275-41114680-ba85-11eb-97ce-4aab73928395.png)
+
+
 
 
 

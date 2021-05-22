@@ -56,6 +56,11 @@ Average Purchase Total per Person by Age Group
 ![image](https://user-images.githubusercontent.com/79819331/119212419-28edf700-ba86-11eb-9b1a-0a506fed34aa.png)
 
 
+
+![image](https://user-images.githubusercontent.com/79819331/119212458-710d1980-ba86-11eb-9f82-91aa47a92a9a.png)
+
+
+
 Top Spenders
 
 Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
@@ -65,7 +70,8 @@ Purchase Count
 Average Purchase Price
 Total Purchase Value
 
-![image](https://user-images.githubusercontent.com/79819331/119212458-710d1980-ba86-11eb-9f82-91aa47a92a9a.png)
+![image](https://user-images.githubusercontent.com/79819331/119212473-8d10bb00-ba86-11eb-941b-a7491b754d62.png)
+
 
 Most Popular Items
 
@@ -77,7 +83,8 @@ Purchase Count
 Item Price
 Total Purchase Value
 
-![image](https://user-images.githubusercontent.com/79819331/119212473-8d10bb00-ba86-11eb-941b-a7491b754d62.png)
+
+![image](https://user-images.githubusercontent.com/79819331/119212553-263fd180-ba87-11eb-9444-ad0fde0430a5.png)
 
 
 Most Profitable Items

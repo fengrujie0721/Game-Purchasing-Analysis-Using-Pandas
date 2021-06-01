@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pandas-Challenge
 Heroesofpymoli    
 Analyze the data for most recent fantasy game Heroes of Pymoli.
 

@@ -1,4 +1,4 @@
-# Game Purchasing Analysis using Pandas
+# Game Purchasing Analysis Using Pandas
 Heroesofpymoli    
 Analyze the data for most recent fantasy game Heroes of Pymoli.
 
